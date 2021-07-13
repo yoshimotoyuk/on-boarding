@@ -164,9 +164,19 @@ mentors.debian.netの改善に関しては、まだ[salsa](https://salsa.debian.
 
 下記事項を記載の上`on-boarding@oss-gate.org`にメールでご応募ください。
 
-  * 名前（GitHubのIDなどOSS Gateオンボーディング内で困らないものであれば本名でなくても構いません。
+  * 名前（GitHubのIDなどOSS Gateオンボーディング内で困らないものであれば本名でなくても構いません。）
   * 対象募集要項のURL：{{ site.url }}{{ site.baseurl }}{% link proposals/2021-08/kenhys-maintain-debian-packages/index.md %}
   * 応募動機
   * 現時点での自分のOSS開発に関する知識・経験
   * 活動予定時間
   * どこでこの活動を知ったか
+
+*【応募メール参考例】*
+  * 名前:　sample John
+  * 対象募集要項のURL：https://oss-gate.github.io/on-boarding/proposals/2021-08/kenhys-maintain-debian-packages/
+  * 応募動機:　オープンソースの　OS開発に興味があったから
+  * 現時点での自分のOSS開発に関する知識・経験： 自社のデータ処理にfluentdを使っていてそれをいじっている。
+  * 活動予定時間：　平日　9時から10時半と土日
+  * 知ったきっかけ: Debian開発者の人のツイート
+  
+  
