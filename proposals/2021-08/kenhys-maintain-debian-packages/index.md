@@ -176,7 +176,7 @@ mentors.debian.netの改善に関しては、まだ[salsa](https://salsa.debian.
   * 対象募集要項のURL：https://oss-gate.github.io/on-boarding/proposals/2021-08/kenhys-maintain-debian-packages/
   * 応募動機:　オープンソースの　OS開発に興味があったから
   * 現時点での自分のOSS開発に関する知識・経験：　普段OSSを使っていて、不具合に遭遇したときに、その不具合を対象OSSに報告したことがある。（PRすればいいことは知っている。）
-  * 活動予定時間：　平日　9時から10時半と土日
+  * 活動予定時間：　一日2時間くらい。
   * 知ったきっかけ: Debianメンテナーの人のツイート
   
   
